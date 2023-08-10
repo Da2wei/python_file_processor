@@ -9,7 +9,7 @@ def main():
     # 讀取文件
     content = file_operations.read_file('test.txt')
     print(content)  # 應該輸出 'Hello, GitHub!'
-    pass
+    
 
 if __name__ == "__main__":
     main()
