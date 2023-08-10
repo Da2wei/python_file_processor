@@ -10,7 +10,7 @@
 ## 使用方法
 
 1. 克隆此存儲庫：
-git clone [你的存儲庫URL]
+git clone [https://github.com/Da2wei/python_file_processor.git]
 
 2. 運行`main.py`：
 
